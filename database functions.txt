@@ -1,0 +1,8 @@
+add website filed to offers table
+
+
+add the tv category to category table 
+
+
+
+add introduction filed type text to item_translations table
